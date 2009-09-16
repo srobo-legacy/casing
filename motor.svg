@@ -14,7 +14,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.46"
    version="1.0"
-   sodipodi:docname="motor2.svg"
+   sodipodi:docname="motor.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4">
@@ -36,9 +36,9 @@
      objecttolerance="10000"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="471.06042"
-     inkscape:cy="41.899051"
+     inkscape:zoom="3.959798"
+     inkscape:cx="440.9669"
+     inkscape:cy="299.15878"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -447,5 +447,21 @@
        height="14.173228"
        x="400.37701"
        y="875.17993" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 382.67717,793.70073 L 382.67717,807.87396 L 389.76378,807.87396 L 389.76378,793.70073 L 382.67717,793.70073 z"
+       id="path2458" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 382.67717,864.56687 L 382.67717,878.7401 L 389.76378,878.7401 L 389.76378,864.56687 L 382.67717,864.56687 z"
+       id="path2460" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 499.6063,839.76372 L 499.6063,853.93695 L 492.51969,853.93695 L 492.51969,839.76372 L 499.6063,839.76372 z"
+       id="path2462" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 499.6063,768.89758 L 499.6063,783.07081 L 492.51969,783.07081 L 492.51969,768.89758 L 499.6063,768.89758 z"
+       id="path2464" />
   </g>
 </svg>
